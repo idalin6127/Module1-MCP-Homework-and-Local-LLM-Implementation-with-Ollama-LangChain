@@ -1,0 +1,242 @@
+{
+  "company": "NVIDIA Corporation",
+  "symbol": "NVDA",
+  "dataType": "Historical Annual Stock Price Data",
+  "extractedDate": "2025-07-27T16:37:46.313Z",
+  "priceHistory": [
+    {
+      "year": 2025,
+      "averageStockPrice": 131.3822,
+      "yearOpen": 138.288,
+      "yearHigh": 173.74,
+      "yearLow": 94.3034,
+      "yearClose": 173.5,
+      "annualPercentChange": "29.22%"
+    },
+    {
+      "year": 2024,
+      "averageStockPrice": 107.7948,
+      "yearOpen": 48.1501,
+      "yearHigh": 148.846,
+      "yearLow": 47.5514,
+      "yearClose": 134.268,
+      "annualPercentChange": "171.23%"
+    },
+    {
+      "year": 2023,
+      "averageStockPrice": 36.5493,
+      "yearOpen": 14.3033,
+      "yearHigh": 50.3859,
+      "yearLow": 14.2534,
+      "yearClose": 49.5036,
+      "annualPercentChange": "239.02%"
+    },
+    {
+      "year": 2022,
+      "averageStockPrice": 18.5426,
+      "yearOpen": 30.0684,
+      "yearHigh": 30.0684,
+      "yearLow": 11.215,
+      "yearClose": 14.6021,
+      "annualPercentChange": "-50.26%"
+    },
+    {
+      "year": 2021,
+      "averageStockPrice": 19.4817,
+      "yearOpen": 13.0792,
+      "yearHigh": 33.3136,
+      "yearLow": 11.5629,
+      "yearClose": 29.3596,
+      "annualPercentChange": "125.48%"
+    },
+    {
+      "year": 2020,
+      "averageStockPrice": 9.8587,
+      "yearOpen": 5.9722,
+      "yearHigh": 14.5196,
+      "yearLow": 4.892,
+      "yearClose": 13.0208,
+      "annualPercentChange": "122.30%"
+    },
+    {
+      "year": 2019,
+      "averageStockPrice": 4.3382,
+      "yearOpen": 3.3778,
+      "yearHigh": 5.9587,
+      "yearLow": 3.1737,
+      "yearClose": 5.8574,
+      "annualPercentChange": "76.94%"
+    },
+    {
+      "year": 2018,
+      "averageStockPrice": 5.7528,
+      "yearOpen": 4.9295,
+      "yearHigh": 7.168,
+      "yearLow": 3.1512,
+      "yearClose": 3.3103,
+      "annualPercentChange": "-30.82%"
+    },
+    {
+      "year": 2017,
+      "averageStockPrice": 3.6983,
+      "yearOpen": 2.5127,
+      "yearHigh": 5.3649,
+      "yearLow": 2.355,
+      "yearClose": 4.7848,
+      "annualPercentChange": "81.99%"
+    },
+    {
+      "year": 2016,
+      "averageStockPrice": 1.3202,
+      "yearOpen": 0.7897,
+      "yearHigh": 2.8898,
+      "yearLow": 0.6153,
+      "yearClose": 2.6292,
+      "annualPercentChange": "226.97%"
+    },
+    {
+      "year": 2015,
+      "averageStockPrice": 0.5743,
+      "yearOpen": 0.4831,
+      "yearHigh": 0.8234,
+      "yearLow": 0.4592,
+      "yearClose": 0.8041,
+      "annualPercentChange": "67.10%"
+    },
+    {
+      "year": 2014,
+      "averageStockPrice": 0.4413,
+      "yearOpen": 0.3739,
+      "yearHigh": 0.5073,
+      "yearLow": 0.3621,
+      "yearClose": 0.4812,
+      "annualPercentChange": "27.40%"
+    },
+    {
+      "year": 2013,
+      "averageStockPrice": 0.3311,
+      "yearOpen": 0.2935,
+      "yearHigh": 0.3803,
+      "yearLow": 0.2764,
+      "yearClose": 0.3777,
+      "annualPercentChange": "33.56%"
+    },
+    {
+      "year": 2012,
+      "averageStockPrice": 0.3098,
+      "yearOpen": 0.3218,
+      "yearHigh": 0.3771,
+      "yearLow": 0.2609,
+      "yearClose": 0.2828,
+      "annualPercentChange": "-10.99%"
+    },
+    {
+      "year": 2011,
+      "averageStockPrice": 0.3871,
+      "yearOpen": 0.3626,
+      "yearHigh": 0.5887,
+      "yearLow": 0.2689,
+      "yearClose": 0.3177,
+      "annualPercentChange": "-10.00%"
+    },
+    {
+      "year": 2010,
+      "averageStockPrice": 0.3109,
+      "yearOpen": 0.4238,
+      "yearHigh": 0.4328,
+      "yearLow": 0.2036,
+      "yearClose": 0.353,
+      "annualPercentChange": "-17.56%"
+    },
+    {
+      "year": 2009,
+      "averageStockPrice": 0.2717,
+      "yearOpen": 0.1997,
+      "yearHigh": 0.4282,
+      "yearLow": 0.1653,
+      "yearClose": 0.4282,
+      "annualPercentChange": "131.46%"
+    },
+    {
+      "year": 2008,
+      "averageStockPrice": 0.3655,
+      "yearOpen": 0.7567,
+      "yearHigh": 0.7567,
+      "yearLow": 0.1352,
+      "yearClose": 0.185,
+      "annualPercentChange": "-76.28%"
+    },
+    {
+      "year": 2007,
+      "averageStockPrice": 0.6355,
+      "yearOpen": 0.5514,
+      "yearHigh": 0.9064,
+      "yearLow": 0.4332,
+      "yearClose": 0.7798,
+      "annualPercentChange": "37.87%"
+    },
+    {
+      "year": 2006,
+      "averageStockPrice": 0.4148,
+      "yearOpen": 0.292,
+      "yearHigh": 0.5914,
+      "yearLow": 0.27,
+      "yearClose": 0.5656,
+      "annualPercentChange": "102.43%"
+    },
+    {
+      "year": 2005,
+      "averageStockPrice": 0.2181,
+      "yearOpen": 0.1802,
+      "yearHigh": 0.2913,
+      "yearLow": 0.1572,
+      "yearClose": 0.2794,
+      "annualPercentChange": "55.22%"
+    },
+    {
+      "year": 2004,
+      "averageStockPrice": 0.1482,
+      "yearOpen": 0.1764,
+      "yearHigh": 0.2081,
+      "yearLow": 0.0721,
+      "yearClose": 0.18,
+      "annualPercentChange": "1.52%"
+    },
+    {
+      "year": 2003,
+      "averageStockPrice": 0.1352,
+      "yearOpen": 0.0941,
+      "yearHigh": 0.203,
+      "yearLow": 0.0741,
+      "yearClose": 0.1773,
+      "annualPercentChange": "101.71%"
+    },
+    {
+      "year": 2002,
+      "averageStockPrice": 0.2204,
+      "yearOpen": 0.5142,
+      "yearHigh": 0.5479,
+      "yearLow": 0.0563,
+      "yearClose": 0.0879,
+      "annualPercentChange": "-82.81%"
+    },
+    {
+      "year": 2001,
+      "averageStockPrice": 0.3022,
+      "yearOpen": 0.1144,
+      "yearHigh": 0.5301,
+      "yearLow": 0.1144,
+      "yearClose": 0.5112,
+      "annualPercentChange": "308.31%"
+    },
+    {
+      "year": 2000,
+      "averageStockPrice": 0.2012,
+      "yearOpen": 0.0894,
+      "yearHigh": 0.3303,
+      "yearLow": 0.0708,
+      "yearClose": 0.1252,
+      "annualPercentChange": "39.58%"
+    }
+  ]
+}
