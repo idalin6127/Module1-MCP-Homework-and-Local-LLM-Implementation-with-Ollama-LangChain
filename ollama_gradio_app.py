@@ -8,7 +8,7 @@ import gradio as gr
 prompt = PromptTemplate.from_template("What is the capital of {topic}?")
 
 # Step 2: Define the model
-model = ChatOllama(model="llama2")  # 本地 Ollama 模型
+model = ChatOllama(model="llama2")  # Local Ollama model
 
 # Step 3: Create the LCEL Chain
 chain = (
