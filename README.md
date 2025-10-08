@@ -1,7 +1,8 @@
 <p align="left">
-  <img src="logo/logo.png" alt="Project Logo" width="300"/>
+  <img src="logo/logo.png" alt="Project Logo" width="400"/>
 </p>
-**# Module1 – MCP & Local LLM with Ollama + LangChain**
+
+# Module1 – MCP & Local LLM with Ollama + LangChain
 
 > This module demonstrates how to use **MCP (Model Context Protocol)** to build agent-like workflows
 > and how to run **local LLMs via Ollama** with LangChain, then integrate them for practical tasks.
