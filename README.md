@@ -76,6 +76,11 @@ Copy code
 
 ---
 
+## 🏗️ System design schematic diagram
+<img width="515" height="460" alt="System design schematic diagram" src="https://github.com/user-attachments/assets/e886d0d6-3802-4809-9b61-259667be98a6" />
+
+
+
 ## ⚙️ Installation & Setup
 
 ### 1. Install Ollama
