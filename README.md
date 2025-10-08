@@ -1,4 +1,8 @@
-# Ida_Lin_Module1
+<p align="left">
+  <img src="logo/logo.png" alt="Project Logo" width="500"/>
+</p>
+
+# Module1
 MCP Homework and Local LLM Implementation with Ollama &amp; LangChain
 Part 1 Using MCP to built Agent-like work-flow.
 Task 1.1 MCP + Claude = Browser Automation
