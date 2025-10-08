@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="logo/logo.png" alt="Project Logo" width="350"/>
+  <img src="logo/logo.png" alt="Project Logo" width="400"/>
 </p>
 # Module1 – MCP & Local LLM with Ollama + LangChain
 
